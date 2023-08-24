@@ -1,5 +1,6 @@
 # This is Dummy python file
 a = 3
 b = 9
-c= a+b
+d = 6
+c= a+b+d
 print (c)
